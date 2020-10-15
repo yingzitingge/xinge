@@ -2,7 +2,7 @@
 id: getting-started
 title: Getting Started
 date: 2020-10-15T10:29:44.053Z
-thumbnail: /img/uploads/oss_logo.png
+thumbnail: /img/uploads/chuanliu.jpg
 rating: 5
 ---
 <!--StartFragment-->
