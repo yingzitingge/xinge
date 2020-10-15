@@ -133,9 +133,9 @@ rating: 5
 
 —— 小坂安雄 77岁
 
+
+
 ![](https://pic1.zhimg.com/80/v2-b99db9d5a0ed5733e9af92394f728978_720w.jpg)
-
-
 
 ## **关于处事**
 
@@ -160,6 +160,8 @@ rating: 5
 根本不会唱
 
 —— 宮内宏高 65岁
+
+
 
 ![](https://pic2.zhimg.com/80/v2-b057c95a59ddfd425b3c3563c9dc5c11_720w.jpg)
 
@@ -201,6 +203,8 @@ rating: 5
 
 —— アリス 52岁
 
+
+
 ![](https://pic2.zhimg.com/80/v2-aade1232e62e628e566e33337e528c05_720w.jpg)
 
 发现存折上
@@ -230,8 +234,6 @@ rating: 5
 但总是会迷路
 
 —— 片上映正 47岁
-
-
 
 
 
@@ -273,9 +275,9 @@ rating: 5
 
 —— 银河 48岁
 
+
+
 ![](https://pic2.zhimg.com/80/v2-b79ddec1b8df64dab28bf501f297ccf1_720w.jpg)
-
-
 
 ## **关于孤独**
 
@@ -383,6 +385,8 @@ rating: 5
 
 —— 石泽幸弘 49岁
 
+
+
 ![](https://pic1.zhimg.com/80/v2-0313286faed30b20df4968d1c0bfbb9c_720w.jpg)
 
 老婆子啊
@@ -456,8 +460,6 @@ rating: 5
 
 
 在丈夫的漫天苦水中，我们终于找到了一首妻子撰写的小诗。
-
-
 
 把丈夫
 
