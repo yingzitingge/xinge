@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: Getting Started
+title: 生命尽头，日本老人都活成了段子手
 date: 2020-10-15T10:29:44.053Z
 thumbnail: /img/uploads/chuanliu.jpg
 rating: 5
