@@ -7,7 +7,7 @@
 
 const siteConfig = {
   title: '新新老师',
-  tagline: '新新老师の霓虹笔记:)',
+  tagline: '简单、生动、有趣の霓虹笔记:)',
   url: 'https://xinxinsensei.netlify.app',
   baseUrl: '/',
   favicon: 'img/favicon/favicon.ico',
