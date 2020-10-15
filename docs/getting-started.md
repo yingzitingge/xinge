@@ -7,6 +7,8 @@ rating: 5
 ---
 <!--StartFragment-->
 
+![](/img/uploads/chuanliu.jpg)
+
 > 心怦了一下
 >
 > \
