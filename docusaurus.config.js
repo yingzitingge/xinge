@@ -8,7 +8,7 @@
 const siteConfig = {
   title: '新新老师',
   tagline: '新新老师の霓虹笔记:)',
-  url: 'https://xinxinsensei.vercel.app',
+  url: 'https://xinxinsensei.netlify.app',
   baseUrl: '/',
   favicon: 'img/favicon/favicon.ico',
   presets: [
@@ -16,7 +16,7 @@ const siteConfig = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          path: '../docs',
+          path: './docs',
           sidebarPath: require.resolve('./sidebars.json'),
           editUrl:
             'https://github.com/facebook/create-react-app/edit/master/docusaurus/website',
