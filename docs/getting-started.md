@@ -1,159 +1,568 @@
 ---
 id: getting-started
 title: Getting Started
+date: 2020-10-15T10:29:44.053Z
+thumbnail: /img/uploads/oss_logo.png
+rating: 5
 ---
+<!--StartFragment-->
 
-Create React App is an officially supported way to create single-page React
-applications. It offers a modern build setup with no configuration.
+> 心怦了一下\
+> 还以为是爱情\
+> 其实是心律不齐
 
-## Quick Start
+这不是搞笑段子，是78岁的大友宽子奶奶创作的银发川柳，调侃自己的心脏病。
 
-```sh
-npx create-react-app my-app
-cd my-app
-npm start
-```
+所谓川柳，是日本一种特殊体裁的小诗，只有17个音节，风格类似打油诗。而银发川柳，顾名思义，主题只限定老年生活。
 
-> If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` or `yarn global remove create-react-app` to ensure that `npx` always uses the latest version.
+在今天的日本，每四人中就有一名高龄老人，65岁以上人口的比例超过28%。如何面对衰老，并与之共处，是每个普通人都无法逃避的课题。
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
+在一首首饶有趣味的银发川柳里，「衰老」抛弃了以往的宏大与沉重，变成了一件可以轻松调侃的生活日常。
 
-Then open [http://localhost:3000/](http://localhost:3000/) to see your app.
+目前，网上已经流传着许多银发川柳出品的金句，冲击着广大社畜脆弱的心灵。
 
-When you’re ready to deploy to production, create a minified bundle with `npm run build`.
+不过这一次，我们将全部有关银发川柳的出版物都翻了个遍 —— 八本《银发川柳 单行本》和七本《笑中有思 银发川柳》，并摘出了其中最有趣的50首。
 
-<p align='center'>
-<img src='https://cdn.jsdelivr.net/gh/facebook/create-react-app@27b42ac7efa018f2541153ab30d63180f5fa39e0/screencast.svg' width='600' alt='npm start' />
-</p>
+读完这些汇集人生百态的文字，每天嚷嚷着中危的你，也许会对「衰老」产生新的感受。
 
-### Get Started Immediately
 
-You **don’t** need to install or configure tools like webpack or Babel. They are preconfigured and hidden so that you can focus on the code.
 
-Create a project, and you’re good to go.
+## **关于身体**
 
-## Creating an App
+当人生步入老年期，第一个面对的残酷现实，是身体功能的衰退。
 
-**You’ll need to have Node >= 10 on your local development machine** (but it’s not required on the server). You can use [nvm](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to switch Node versions between different projects.
+这也是银发川柳绕不过去的主题，当腿脚不灵活的老人开始纷纷自嘲，拿自己最脆弱的一面开刀，其中的创造力，是无穷无尽的。
 
-To create a new app, you may choose one of the following methods:
 
-### npx
 
-```sh
-npx create-react-app my-app
-```
+人老了
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
+打个喷嚏
 
-### npm
+都要赌上性命
 
-```sh
-npm init react-app my-app
-```
+—— 佐藤和泽 83岁
 
-_`npm init <initializer>` is available in npm 6+_
 
-### Yarn
 
-```sh
-yarn create react-app my-app
-```
+就算谢顶了
 
-_`yarn create` is available in Yarn 0.25+_
+去理发店
 
-### Selecting a template
+也不打折
 
-You can now optionally start a new app from a template by appending `--template [template-name]` to the creation command.
+—— 山本隆庄 76岁
 
-If you don't select a template, we'll create your project with our base template.
 
-Templates are always named in the format `cra-template-[template-name]`, however you only need to provide the `[template-name]` to the creation command.
 
-```sh
-npx create-react-app my-app --template [template-name]
-```
+那个医生
 
-> You can find a list of available templates by searching for ["cra-template-\*"](https://www.npmjs.com/search?q=cra-template-*) on npm.
+以前教我养生
 
-Our [Custom Templates](custom-templates.md) documentation describes how you can build your own template.
+竟然比我先死了
 
-#### Creating a TypeScript app
+—— 森田志郎 79岁
 
-You can start a new TypeScript app using templates. To use our provided TypeScript template, append `--template typescript` to the creation command.
 
-```sh
-npx create-react-app my-app --template typescript
-```
 
-If you already have a project and would like to add TypeScript, see our [Adding TypeScript](adding-typescript.md) documentation.
+吃饭八分饱
 
-### Selecting a package manager
+还有两分
 
-When you create a new app, the CLI will use [Yarn](https://yarnpkg.com/) to install dependencies (when available). If you have Yarn installed, but would prefer to use npm, you can append `--use-npm` to the creation command. For example:
+用来吃药
 
-```sh
-npx create-react-app my-app --use-npm
-```
+—— 黒泽基典 45岁
 
-## Output
 
-Running any of these commands will create a directory called `my-app` inside the current folder. Inside that directory, it will generate the initial project structure and install the transitive dependencies:
 
-```
-my-app
-├── README.md
-├── node_modules
-├── package.json
-├── .gitignore
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── logo192.png
-│   ├── logo512.png
-│   ├── manifest.json
-│   └── robots.txt
-└── src
-    ├── App.css
-    ├── App.js
-    ├── App.test.js
-    ├── index.css
-    ├── index.js
-    ├── logo.svg
-    ├── serviceWorker.js
-    └── setupTests.js
-```
+逗猫棒
 
-No configuration or complicated folder structures, only the files you need to build your app. Once the installation is done, you can open your project folder:
+挥得太慢
 
-```sh
-cd my-app
-```
+被猫嫌弃了一脸
 
-## Scripts
+—— 见边千春 69岁
 
-Inside the newly created project, you can run some built-in commands:
 
-### `npm start` or `yarn start`
 
-Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+同学会上
 
-The page will automatically reload if you make changes to the code. You will see the build errors and lint warnings in the console.
+大家鞠躬道别
 
-<p align='center'>
-<img src='https://cdn.jsdelivr.net/gh/marionebl/create-react-app@9f6282671c54f0874afd37a72f6689727b562498/screencast-error.svg' width='600' alt='Build errors' />
-</p>
+结果一起站不稳
 
-### `npm test` or `yarn test`
+—— 石冈和子 82岁
 
-Runs the test watcher in an interactive mode. By default, runs tests related to files changed since the last commit.
 
-[Read more about testing](running-tests.md).
 
-### `npm run build` or `yarn build`
+下了奔驰
 
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+我要换乘
 
-The build is minified and the filenames include the hashes.
+轮椅
 
-Your app is ready to be deployed.
+—— 井堀雅子 65岁
+
+
+
+别这样
+
+我只是睡个懒觉
+
+不用摸我脉搏
+
+—— くずれ荘の管理人 49岁
+
+
+
+白内障手术后
+
+看到自己的老年斑和皱纹
+
+吓了一跳
+
+—— 村川清嗣 71岁
+
+
+
+早上起来
+
+状态不错
+
+去看看医生吧
+
+—— 小坂安雄 77岁
+
+![](https://pic1.zhimg.com/80/v2-b99db9d5a0ed5733e9af92394f728978_720w.jpg)
+
+
+
+## **关于处事**
+
+除了可以想象的困难，「衰老」的旅途中充满意外的风景，常常令人猝不及防、啼笑皆非。
+
+
+
+久违的朋友
+
+打来电话说
+
+你还活着啊
+
+—— 仓员悦子 84岁
+
+
+
+怀旧金曲
+
+都太新了
+
+根本不会唱
+
+—— 宮内宏高 65岁
+
+![](https://pic2.zhimg.com/80/v2-b057c95a59ddfd425b3c3563c9dc5c11_720w.jpg)
+
+鼓起勇气
+
+挤进了混浴池
+
+竟然都是男的
+
+—— 丰田真 64岁
+
+
+
+忽然发现
+
+我的年纪
+
+已经比妈妈还大了
+
+—— 井上亲子 78岁
+
+
+
+拍了遗像
+
+说我笑过头了
+
+不让用
+
+—— 神谷泉 50岁
+
+
+
+真好吃啊
+
+虽然忘了
+
+刚刚吃了什么
+
+—— アリス 52岁
+
+![](https://pic2.zhimg.com/80/v2-aade1232e62e628e566e33337e528c05_720w.jpg)
+
+发现存折上
+
+写着
+
+银行密码
+
+—— 平野好 75岁
+
+
+
+终于
+
+我还清了房贷
+
+住进了养老院
+
+—— 佐藤隆郎 73岁
+
+
+
+人生
+
+已经不迷茫了
+
+但总是会迷路
+
+—— 片上映正 47岁
+
+
+
+
+
+嘴上说生无可恋了
+
+地震来了
+
+跑得比谁都快
+
+—— 广川利雄 84岁
+
+
+
+要是知道死期就好了
+
+这样我就会
+
+把存款都花完
+
+—— 遥 77岁
+
+
+
+入手了一块墓地
+
+可以俯瞰
+
+女子高中
+
+—— 甲斐良一 66岁
+
+
+
+偷吃孙子的糖
+
+死不承认
+
+嫁祸给猫
+
+—— 银河 48岁
+
+![](https://pic2.zhimg.com/80/v2-b79ddec1b8df64dab28bf501f297ccf1_720w.jpg)
+
+
+
+## **关于孤独**
+
+在被称为「无缘社会」的日本，子女成年后与父母分居是常态。比起身体上的不便，更难以面对的是深不见底的孤独。
+
+
+
+现在
+
+会温暖地迎接我的
+
+只有热马桶圈
+
+—— 圆崎典子 53岁
+
+
+
+「给我打钱」
+
+电话里是儿子的声音
+
+果断挂了
+
+—— 浜乙女 72岁
+
+
+
+「饭做好了」
+
+这是今天唯一的对话
+
+来自电饭煲
+
+—— 桑原真子 63岁
+
+
+
+下辈子
+
+也要在一起哦
+
+我对狗说
+
+—— 延沢好子 56岁
+
+
+
+寂寞了
+
+跟电话诈骗犯
+
+煲电话粥
+
+—— 星野透 72岁
+
+
+
+越来越淡了
+
+头发、记忆
+
+和存在感
+
+—— 北斗 46岁
+
+
+
+曾经想要的自由和时间
+
+现在
+
+多到手足无措
+
+—— 藤原ノブ 77岁
+
+
+
+## **关于婚姻**
+
+银发川柳的投稿中，有一个有趣的现象 —— 跟喜欢在诗中调侃妻子的丈夫相比，日本妻子鲜少愿意在诗中提及丈夫，仿佛他们根本不存在。
+
+在日本社会，丈夫赚钱养家，妻子操持家务是常态。双方多年来各司其职，相安无事，直到一朝丈夫退休，突然打破了平衡。
+
+将就了大半辈子的日本太太决心不再忍耐 —— 家里突然多了一个无所事事、颐指气使的糟老头，那是怎么都看不顺眼的，恨不得当大型垃圾扔掉。
+
+而地位一落千丈的丈夫们明白，一旦离开妻子，不但自己没有半点生存能力，养老金还要被分走一半……只能躲在角落瑟瑟发抖，在诗词中哀叹自己的悲惨处境。
+
+
+
+退休了
+
+手上只有养老金
+
+爱出轨的毛病也治好了
+
+—— 池田東一 69岁
+
+
+
+开始断舍离的妻子
+
+把目光
+
+投向了我
+
+—— 石泽幸弘 49岁
+
+![](https://pic1.zhimg.com/80/v2-0313286faed30b20df4968d1c0bfbb9c_720w.jpg)
+
+老婆子啊
+
+把对狗的爱
+
+分一点给我吧
+
+—— 长野芳成 58岁
+
+
+
+以前
+
+妻子是妖精
+
+现在成了妖怪
+
+—— 太田一 71岁
+
+
+
+体检完之后
+
+妻子突然温柔起来
+
+这让我很害怕
+
+—— 细野理 63岁
+
+
+
+保险金
+
+如果数额很大
+
+会被杀掉吧
+
+—— 西宮トキエ 80岁
+
+
+
+遗书上写着
+
+「全部留给妻子」
+
+那是她的笔迹
+
+—— りくそらばあば 59岁
+
+
+
+家庭和谐的秘诀
+
+少说话
+
+多出门
+
+—— 荒木贞一 73岁
+
+
+
+我跟妻子说
+
+下辈子也一起过吧
+
+「不」
+
+—— 匿名 67岁
+
+
+
+在丈夫的漫天苦水中，我们终于找到了一首妻子撰写的小诗。
+
+
+
+把丈夫
+
+寄存在便利店
+
+然后出门旅行
+
+—— 阪井纪英 67岁
+
+
+
+## **关于爱情**
+
+如果说，当人的身体、精力、智商、婚姻、家庭、存在感全部一点点被时间啃噬，还有什么能够点燃这副枯朽的躯体，带来生的希望？
+
+银发川柳给出的答案，是爱情。
+
+
+
+给我的猫
+
+取了
+
+初恋的名字
+
+—— 江村澄子 95岁
+
+
+
+好想
+
+再得一次的病
+
+是相思病
+
+—— 铃木贯 71岁
+
+
+
+恋人啊
+
+我现在终于
+
+有闲又有钱了
+
+—— 纸谷义和 67岁
+
+
+
+我喜欢的类型
+
+是比我年纪大的
+
+现在找不到了
+
+—— 山田样 92岁
+
+
+
+89岁
+
+最后的挣扎
+
+谈个恋爱吧
+
+—— 才野三千枝 89岁
+
+
+
+所谓老年爱情
+
+接个吻
+
+都惊动了假牙
+
+—— 匿名 79岁
+
+
+
+当初发誓共白头
+
+你秃了顶
+
+我染了头
+
+—— 铃木信子 61岁
+
+
+
+「快跟上来啊」
+
+妻子从前对我说
+
+现在我要随她而去了
+
+—— 山本敦义 83岁
+
+
+
+关于初恋的秘密
+
+直到今天
+
+依然灿烂如彩虹
+
+—— 田中あいこ 81岁
+
+<!--EndFragment-->
