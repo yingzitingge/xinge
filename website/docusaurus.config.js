@@ -6,9 +6,9 @@
  */
 
 const siteConfig = {
-  title: '新哥日语',
-  tagline: '新哥日语笔记，轻轻松松学日语，开开心心看日漫',
-  url: 'https://xinge.vercel.app',
+  title: '新新老师',
+  tagline: '新新老师の霓虹笔记:)',
+  url: 'https://xinxinsensei.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon/favicon.ico',
   presets: [
@@ -36,9 +36,9 @@ const siteConfig = {
       indexName: 'create-react-app',
     },
     navbar: {
-      title: '新哥日语',
+      title: '新新老师',
       logo: {
-        alt: '新哥日语',
+        alt: '新新老师',
         src: 'img/logo.svg',
       },
       links: [
@@ -98,7 +98,7 @@ const siteConfig = {
         alt: 'Facebook Open Source Logo',
         src: 'img/oss_logo.png',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} 新哥小姐姐`,
+      copyright: `Copyright © ${new Date().getFullYear()} 新新老师`,
     },
   },
 };

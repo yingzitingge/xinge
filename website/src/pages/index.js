@@ -42,7 +42,7 @@ function Home() {
   return (
     <Layout
       permalink={'/'}
-      description={'新哥日语笔记'}
+      description={'新新老师の霓虹笔记'}
     >
       <div className={classnames('hero hero--dark', styles.heroBanner)}>
         <div className="container">
