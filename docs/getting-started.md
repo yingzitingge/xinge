@@ -126,7 +126,7 @@ rating: 5
 > —— 小坂安雄 77岁
 
 
-![](https://pic1.zhimg.com/80/v2-b99db9d5a0ed5733e9af92394f728978_720w.jpg)
+![](/img/uploads/chuanliu1.jpg)
 
 ## **关于处事**
 
@@ -150,7 +150,7 @@ rating: 5
 > 
 > —— 宮内宏高 65岁
 
-![](https://pic2.zhimg.com/80/v2-b057c95a59ddfd425b3c3563c9dc5c11_720w.jpg)
+![](/img/uploads/chuanliu2.jpg)
 
 > 鼓起勇气
 > 
@@ -188,7 +188,7 @@ rating: 5
 > —— アリス 52岁
 
 
-![](https://pic2.zhimg.com/80/v2-aade1232e62e628e566e33337e528c05_720w.jpg)
+![](/img/uploads/chuanliu3.jpg)
 
 > 发现存折上
 > 
@@ -253,7 +253,7 @@ rating: 5
 > —— 银河 48岁
 
 
-![](https://pic2.zhimg.com/80/v2-b79ddec1b8df64dab28bf501f297ccf1_720w.jpg)
+![](/img/uploads/chuanliu4.jpg)
 
 ## **关于孤独**
 
@@ -352,7 +352,7 @@ rating: 5
 > —— 石泽幸弘 49岁
 
 
-![](https://pic1.zhimg.com/80/v2-0313286faed30b20df4968d1c0bfbb9c_720w.jpg)
+![](/img/uploads/chuanliu5.jpg)
 
 > 老婆子啊
 > 
