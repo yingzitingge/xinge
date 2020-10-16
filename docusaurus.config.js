@@ -8,7 +8,7 @@
 const siteConfig = {
   title: '新新老师',
   tagline: '简单、生动、有趣の霓虹笔记:)',
-  url: 'https://xinxinsensei.netlify.app',
+  url: 'https://xinxinsensei.cn/',
   baseUrl: '/',
   favicon: 'img/favicon/favicon.ico',
   presets: [
@@ -19,8 +19,8 @@ const siteConfig = {
           path: './docs',
           sidebarPath: require.resolve('./sidebars.json'),
           editUrl:
-            'https://github.com/facebook/create-react-app/edit/master/docusaurus/website',
-          showLastUpdateAuthor: true,
+            'https://github.com/yingzitingge/xinxinsensei/edit/main',
+          showLastUpdateAuthor: false,
           showLastUpdateTime: true,
         },
         theme: {
@@ -31,10 +31,10 @@ const siteConfig = {
   ],
   themeConfig: {
     image: 'img/logo-og.png',
-    algolia: {
+    /* algolia: {
       apiKey: '3be60f4f8ffc24c75da84857d6323791',
       indexName: 'create-react-app',
-    },
+    }, */
     navbar: {
       title: '新新老师',
       logo: {
@@ -44,12 +44,12 @@ const siteConfig = {
       links: [
         { to: 'docs/getting-started', label: '笔记', position: 'right' },
         {
-          href: 'https://github.com/jianyongliu/xinge',
+          href: 'https://github.com/yingzitingge/xinxinsensei',
           label: '帮助',
           position: 'right',
         },
         {
-          href: 'https://github.com/jianyongliu/xinge',
+          href: 'https://github.com/yingzitingge/xinxinsensei',
           label: '源码',
           position: 'right',
         },
@@ -67,7 +67,7 @@ const siteConfig = {
             },
             {
               label: '考级',
-              href: 'https://jp.izaodao.com/Index/Teacher/show?uid=28114746',
+              href: 'https://github.com/yingzitingge/xinxinsensei',
             },
           ],
         },
@@ -76,11 +76,11 @@ const siteConfig = {
           items: [
             {
               label: '动漫',
-              href: 'https://jp.izaodao.com/Index/Teacher/show?uid=28114746',
+              href: 'https://github.com/yingzitingge/xinxinsensei',
             },
             {
               label: '电影',
-              href: 'https://jp.izaodao.com/Index/Teacher/show?uid=28114746',
+              href: 'https://github.com/yingzitingge/xinxinsensei',
             },
           ],
         },
@@ -89,7 +89,7 @@ const siteConfig = {
           items: [
             {
               label: '我的在线课堂',
-              href: 'https://jp.izaodao.com/Index/Teacher/show?uid=28114746',
+              href: 'https://github.com/yingzitingge/xinxinsensei',
             },
           ],
         },
