@@ -3,6 +3,7 @@
     "Welcome": ["documentation-intro"],
     "Getting Started": [
       "getting-started",
+      "what-is-candid-photography",
       "folder-structure",
       "available-scripts",
       "supported-browsers-features",
