@@ -53,7 +53,7 @@ You can take great candid photos with just about any camera, you just need to ha
 
 Instead, the key component of candid photography gear is the lens.
 
-Long lenses (i.e., a 70-200mm zoom [like this one](https://adorama.rfvk.net/qLq75)) enable you to hang back from the scene and let things unfold naturally.
+Long lenses (i.e., a 70-200mm zoom) enable you to hang back from the scene and let things unfold naturally.
 
 Think about it - if you're three feet away with a 35mm lens trying to take candid portraits of your kids in your backyard, they won't behave as naturally as they would if you're 10 feet away with your 70-200mm lens. In other words, the longer the lens, the more space between you and your subjects, and the more space there is, the more likely your subjects are to be candid with what they're doing.
 
@@ -110,7 +110,7 @@ Candid photography is all about seizing the moment, and having your camera stuff
 
 Instead, keep your camera out and ready to bring to your eye at a moment's notice.
 
-Whether that means carrying it with a shoulder strap or sling strap, a wrist strap or a [camera harness](https://adorama.evyy.net/ja4j0), just ensure that getting the shot won't be impeded by not having your camera ready to fire.
+Whether that means carrying it with a shoulder strap or sling strap, a wrist strap or a camera harness, just ensure that getting the shot won't be impeded by not having your camera ready to fire.
 
 ## **Candid Photography Tip #4: Suggested Camera Settings**
 
@@ -121,10 +121,10 @@ Since every candid photography situation is different, there are no hard-and-fas
 There are a few general rules you can follow to get the highest-quality shots, though:
 
 * Minimize the ISO to the extent possible to minimize the digital noise in the shot.
-* If you want to freeze action, you'll need to use a faster [shutter speed](https://www.photographytalk.com/beginner-photography-tips/shutter-speed-explained). Kids playing, for example, might necessitate a shutter of 1/250 seconds or faster.
+* If you want to freeze action, you'll need to use a faster shutter speed. Kids playing, for example, might necessitate a shutter of 1/250 seconds or faster.
 * To blur the background, open the aperture. As noted above, there will be times when the background is ugly or distracting, so minimizing the depth of field by shooting with a large aperture (i.e., f/1.8) will be advantageous.
 * Use aperture priority mode or shutter priority mode in lieu of manual mode. Manual mode is often too slow since you have to change all three exposure settings. Use aperture priority mode in low-light situations and shutter priority mode in action situations.
-* Keep your camera on [single-shot autofocus](https://www.photographytalk.com/beginner-photography-tips/camera-autofocus-modes-explained) unless there's lots of action. In that case, switch to continuous autofocus to allow the camera to continually track moving subjects.
+* Keep your camera on single-shot autofocus unless there's lots of action. In that case, switch to continuous autofocus to allow the camera to continually track moving subjects.
 
 ## **Candid Photography Tip #5: Do NOT Use Flash**
 
@@ -134,7 +134,7 @@ Nothing will kill the vibe of a candid photo like a bright, harsh flash going of
 
 Besides, that kind of light looks completely unnatural, which is why I recommended above to pay attention to how the light is interacting with the subject.
 
-If there's not a ton of light, open the aperture to let more light in, slow the shutter speed to increase the duration of light hitting the sensor, or increase the ISO (or do all three!). Learn how the [exposure triangle](https://www.photographytalk.com/beginner-photography-tips/the-exposure-triangle-explained) works so you can get a well-exposed image by manipulating aperture, shutter speed, and ISO.
+If there's not a ton of light, open the aperture to let more light in, slow the shutter speed to increase the duration of light hitting the sensor, or increase the ISO (or do all three!). Learn how the exposure triangle works so you can get a well-exposed image by manipulating aperture, shutter speed, and ISO.
 
 ## **Candid Photography Tip #6: Put Yourself in a Position to Get a Great Shot**
 
@@ -150,7 +150,6 @@ Standing at the top of the stairs at Grand Central Station, positioning yourself
 
 As street photographers will tell you, it's much easier to find a spot with lots of action and stay there with your camera rather than walking around the entire city hoping to run into a great candid moment.
 
-Get more insights on how to visualize a candid shot in the video above by [Jared Polin](https://www.youtube.com/channel/UCZG-C5esGZyVfxO2qXa1Zmw).
 
 ## **Candid Photography Tip #7: Take LOTS of Photos**
 
@@ -164,7 +163,6 @@ Put your camera in burst mode, frame up the shot, and fire away!
 
 Some photographers will also tell you to shoot from the hip - even in burst mode. I find that I just don't have the spatial awareness to frame up a decent shot when the camera is at my hip, but if you can do it and do it well, go for it!
 
-Get more details on taking candid photos in the video above by [PhotographyTV](https://www.youtube.com/channel/UC_QlBKlb1mlrXNcoCUue62Q).
 
 ## **Candid Photography Meaning**
 
